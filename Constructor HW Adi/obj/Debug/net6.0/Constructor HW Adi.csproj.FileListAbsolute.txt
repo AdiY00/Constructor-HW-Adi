@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.AssemblyInfo.cs
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\bin\Debug\net6.0\Constructor HW Adi.exe
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\bin\Debug\net6.0\Constructor HW Adi.deps.json
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\bin\Debug\net6.0\Constructor HW Adi.runtimeconfig.json
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\bin\Debug\net6.0\Constructor HW Adi.dll
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\bin\Debug\net6.0\ref\Constructor HW Adi.dll
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\bin\Debug\net6.0\Constructor HW Adi.pdb
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.dll
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\ref\Constructor HW Adi.dll
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.pdb
+C:\Users\User\source\repos\Constructor HW Adi\Constructor HW Adi\obj\Debug\net6.0\Constructor HW Adi.genruntimeconfig.cache
